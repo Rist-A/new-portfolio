@@ -20,7 +20,7 @@ git clone https://github.com/Rist-A/new-portfolio.git
 
 2. Navigate to the project folder:
 
-cd mine
+cd newportfolio
 
 3. Install dependencies:
 
